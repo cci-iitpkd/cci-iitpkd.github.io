@@ -25,12 +25,18 @@ services:
       - title: "Sensors"
         desc: "Supports design, simulation, fabrication and testing of novel sensing systems such as miniaturized ultrasonic, optical, physiological and radio frequency sensors."
         icon: fas fa-low-vision #find more at https://fontawesome.com/icons
+        button: "More"
+        buttonlink: "sensing"
       - title: "Computational Software"
         desc: "Supports research, design and development of novel data acquisition systems, signal conditioning algorithms, image reconstruction and analysis algorithms and computer aided diagnostics and prognostics."
         icon: fas fa-laptop-code
+        button: "More"
+        buttonlink: "imaging"
       - title: "Hardware Acceleration"
         desc: "Supports exploration of hardware acceleration using field programmable gate arrays (FPGAs), multi-core central processing units (CPUs) and graphical processing units (GPUs). "
         icon: fas fa-microchip
+        button: "More"
+        buttonlink: "accelerating"
 
 # portfolio:
 #     title: "Portfolio"
