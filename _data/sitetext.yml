@@ -23,8 +23,8 @@ services:
     text: ""
     section: services
     list:
-      - title: "Sensors"
-        desc: "Supports design, simulation, fabrication and testing of novel sensing systems such as miniaturized ultrasonic, optical, physiological and radio frequency sensors."
+      - title: "Sensors/Antenna"
+        desc: "Supports design, simulation, fabrication and testing of novel sensing systems such as miniaturized ultrasonic, optical, physiological sensors and radio frequency antenna."
         icon: fas fa-low-vision #find more at https://fontawesome.com/icons
         button: "More"
         buttonlink: "sensing"
