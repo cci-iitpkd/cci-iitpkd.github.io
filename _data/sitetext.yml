@@ -1,7 +1,7 @@
 header:   
     #title: Center for Computational Imaging (CCI) at IIT Palakkad
     title: " "
-    text: Radiating. Imaging. Accelerating.
+    text: <p style="color:#FFD700">Radiating. Imaging. Accelerating</p>.
     button: Show More
     buttonlink: "#about"
 
