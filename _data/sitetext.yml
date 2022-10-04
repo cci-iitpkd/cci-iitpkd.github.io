@@ -1,6 +1,6 @@
-header:
-    #FFD700
-    #title: Center for Computational Imaging (CCI) at IIT Palakkad
+header:    
+    
+    #title: <p style="color:#FFD700">Center for Computational Imaging (CCI) at IIT Palakkad</p>
     title: " "
     text: Radiating. Imaging. Accelerating.
     button: Show More
