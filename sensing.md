@@ -4,4 +4,4 @@ title: "Radiating"
 
 ---
 
-This is the page for Sensing Technologies and Facilities
+This is the page for Radiating Technologies and Facilities
