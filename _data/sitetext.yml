@@ -1,7 +1,8 @@
 header:   
     #title: Center for Computational Imaging (CCI) at IIT Palakkad
     title: " "
-    text: <p style="color:#ff0000"> Radiating. Imaging. Accelerating.</p>    
+    #text: <p style="color:#ff0000"> Radiating. Imaging. Accelerating.</p>    
+    text: <p style="color:#ff0000"> Radiating. <p style="color:#ff00D0"> Imaging. Accelerating.</p>    
     button: Show More
     buttonlink: "#about"
 
@@ -102,7 +103,7 @@ team:
     people:
       - name: "Mahesh Panicker"
         image: https://iitpkd.ac.in/sites/default/files/styles/profile_page_image/public/pictures/2020-02/maheshphoto.jpg
-        role: "Assistant Professor, Electrical Engineering"
+        role: "Associate Professor, Electrical Engineering"
         social:
           - url: https://iitpkd.ac.in/people/mahesh
             icon: fas fa-external-link-alt
