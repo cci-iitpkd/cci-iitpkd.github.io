@@ -4,4 +4,4 @@ title: "Accelerating"
 
 ---
 
-This is the page for Technologies and Facilities for Hardware Acceleration
+The page for Technologies and Facilities for Hardware Acceleration is under development. Please revert back soon for details.
